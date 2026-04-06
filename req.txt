@@ -1,0 +1,10 @@
+tensorflow
+numpy
+matplotlib
+pillow
+opencv-python
+tk
+scikit-learn
+imutils
+streamlit
+groq
